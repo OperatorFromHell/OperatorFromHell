@@ -1,7 +1,7 @@
 ## Hello!
 
-I am currently a student at Leeds Beckett University studying MEng Cybersecurity and Digital Forensics. I specialise in making programming needlessly stressful, and complicated.
+I am currently a student at Leeds Beckett University studying MEng Cybersecurity and Digital Forensics.
 
-My programming experience is solely with python, and I would consider myself a mediocre programmer.
+I have a great interest for anything cybersecurity, though I am mainly into offensive security. I am particularly interested in Active Directory pentesting, but I will mess about with anything. 
 
-My main interest is offensive security, and I have several CTFs under my belt.
+I don't do much programming, but when I do, it is either in Java or Python.
